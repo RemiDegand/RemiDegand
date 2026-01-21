@@ -6,7 +6,8 @@
 
 <br>
 
-📬 **Contact**
+## 📬 Contact
+
 - 📧 Email: remidegand02@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/remi-degand/
 
