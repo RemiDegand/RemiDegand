@@ -17,17 +17,17 @@
 
 Power BI · Excel · Power Query · MyReport · SQL · R  
 
-## 💼 Topics Overview
-
 <br>
+
+## 💼 Topics Overview
 
 | 💰 Finance | ⚙️ Operations |
 |-----------|---------------|
-| Cash Flow Management | Inventory Management |
-| Revenue Recognition Data Models | Production Planning |
-| Aged Receivables | Forecasting |
-| Financial Reporting | Operational Performance |
-| VAT Calculation | Supply Chain Analytics |
+| Cash Flow Management | Process Optimization |
+| Revenue Recognition Data Models | Operational Reporting KPIs |
+| Aged Receivables | Production Planning |
+| Financial Reporting | Delivery Management |
+| VAT Calculation |Inventory Management |
 
 
 
