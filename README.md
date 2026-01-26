@@ -18,13 +18,6 @@
 
 <br>
 
-## 📬 Contact
-
-- 📧 Email: remidegand02@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/remi-degand/
-
-<br>
-
 ## 🚀 My Toolkit
 
 Power BI · Excel · Power Query · MyReport · SQL · R  
