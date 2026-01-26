@@ -6,6 +6,18 @@
 
 <br>
 
+## 💼 Topics Overview
+
+| 💰 Finance | ⚙️ Operations |
+|-----------|---------------|
+| Cash Flow Management | Process Optimization |
+| Revenue Recognition Data Models | Operational Reporting KPIs |
+| Aged Receivables | Production Planning |
+| Financial Reporting | Delivery Management |
+| VAT Calculation |Inventory Management |
+
+<br>
+
 ## 📬 Contact
 
 - 📧 Email: remidegand02@gmail.com  
@@ -17,17 +29,7 @@
 
 Power BI · Excel · Power Query · MyReport · SQL · R  
 
-<br>
 
-## 💼 Topics Overview
-
-| 💰 Finance | ⚙️ Operations |
-|-----------|---------------|
-| Cash Flow Management | Process Optimization |
-| Revenue Recognition Data Models | Operational Reporting KPIs |
-| Aged Receivables | Production Planning |
-| Financial Reporting | Delivery Management |
-| VAT Calculation |Inventory Management |
 
 
 
